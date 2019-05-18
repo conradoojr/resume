@@ -48,14 +48,14 @@ Busco sempre aprender mais sobre algo que não tenho conhecimento sólido e nas 
 
 > Desenvolvimento Android com Java, prototipação e boas práticas de design.
 
-**Analista** - [Simply Tecnologia](http://simply.com.br/) - setembro de 2015 – Janeiro de 2017 (5 meses) - Belo Horizonte e Região, Brasil
+**Analista** - [Simply Tecnologia](http://simply.com.br/) - setembro de 2015 – Janeiro de 2017 - Belo Horizonte e Região, Brasil
 
 > Conhecimentos adiquirido em Homologação/Suporte:
  Análise de Sistemas | Configuração de sistemas | Documentação de sistemas | Relacionamento com Cliente | Participação em projeto Mobile - Xamarin e C#
 
 > Conhecimentos adquirido em Infraestrutura: Servidor local e em nuvem (Amazon e Azure) | Configuração e uso de sistemas Linux e Windows | Uso de Active Directory | Uso de SQL Management | Configuração de rede | Estudo de Segurança da Informação
 
-**Freelancer** - GENORCHIOMENTO.COM - fevereiro de 2015 - até o momento - Belo Horizonte, MG
+**Freelancer** - GENORCHIOMENTO.COM - Fevereiro de 2015 - até o momento - Belo Horizonte, MG
 
 > Atuo no setor de Tecnologia, com desenvolvimento sendo de Mobile, Web, Design e Infra.
 
