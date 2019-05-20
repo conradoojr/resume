@@ -40,7 +40,7 @@ Busco sempre aprender mais sobre algo que não tenho conhecimento sólido e nas 
 
 ## Experiência Profissional
 
-**Desenvolvedor Mobile** - [Vee Digital](http://qiwi.com.br/) - janeiro de 2017 – até o momento - São Paulo, Brasil
+**Desenvolvedor Mobile** - [Vee Digital](https://vee.digital/) - janeiro de 2017 – até o momento - São Paulo, Brasil
 
 > Desenvolvimento Android com Java e iOS com objective C, desenvolvimento ágil, Git e Jira.
 
